@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mis algoritmos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+263fe8d349eb229ed49dba1e429236fda11c1a6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("mis algoritmos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mis algoritmos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
