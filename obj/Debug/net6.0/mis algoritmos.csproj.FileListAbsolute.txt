@@ -1,0 +1,14 @@
+C:\Users\Arces\Desktop\mis algoritmos\bin\Debug\net6.0\mis algoritmos.exe
+C:\Users\Arces\Desktop\mis algoritmos\bin\Debug\net6.0\mis algoritmos.deps.json
+C:\Users\Arces\Desktop\mis algoritmos\bin\Debug\net6.0\mis algoritmos.runtimeconfig.json
+C:\Users\Arces\Desktop\mis algoritmos\bin\Debug\net6.0\mis algoritmos.dll
+C:\Users\Arces\Desktop\mis algoritmos\bin\Debug\net6.0\mis algoritmos.pdb
+C:\Users\Arces\Desktop\mis algoritmos\obj\Debug\net6.0\mis algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arces\Desktop\mis algoritmos\obj\Debug\net6.0\mis algoritmos.AssemblyInfoInputs.cache
+C:\Users\Arces\Desktop\mis algoritmos\obj\Debug\net6.0\mis algoritmos.AssemblyInfo.cs
+C:\Users\Arces\Desktop\mis algoritmos\obj\Debug\net6.0\mis algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Arces\Desktop\mis algoritmos\obj\Debug\net6.0\mis algoritmos.dll
+C:\Users\Arces\Desktop\mis algoritmos\obj\Debug\net6.0\refint\mis algoritmos.dll
+C:\Users\Arces\Desktop\mis algoritmos\obj\Debug\net6.0\mis algoritmos.pdb
+C:\Users\Arces\Desktop\mis algoritmos\obj\Debug\net6.0\mis algoritmos.genruntimeconfig.cache
+C:\Users\Arces\Desktop\mis algoritmos\obj\Debug\net6.0\ref\mis algoritmos.dll
